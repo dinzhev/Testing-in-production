@@ -21,11 +21,11 @@
    Проверка авторизации через Github
   status: pass
 
-  - summary: |
+- summary: |
    Проверка авторизации через Discord
   status: pass
 
-  - summary: |
+- summary: |
    Проверка восстановления пароля
   status: pass
   
